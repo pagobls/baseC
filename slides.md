@@ -1,7 +1,7 @@
 ---
 theme: 'default'
 layout: cover
-title: 'La selezione'
+title: 'La programmazione in C'
 highlighter: 'shiki'
 class: 'text-center'
 info: 'La programmazione in C'
