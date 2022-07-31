@@ -6,11 +6,12 @@ highlighter: 'shiki'
 class: 'text-center'
 info: 'La programmazione in C'
 lineNumbers: true
+download: true
 fonts:
   sans: 'Roboto'
   serif: 'Roboto Slab'
   mono: 'Fira Code'
-
+  
 ---
 # La programmazione in C
 
